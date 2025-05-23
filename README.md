@@ -2,6 +2,10 @@
 
 This custom CSS for the Vivaldi browser enhances the bookmark bar by making it automatically hide, only appearing when needed, and staying visible for a short duration before smoothly disappearing.
 
+<div align="center">
+  <img src="preview.gif" alt="Demo">
+</div>
+
 ## Description
 
 The primary goal of this stylesheet is to provide a cleaner, less cluttered Browse interface. The bookmark bar remains hidden until the user hovers over specific trigger areas: the browser's main header (typically containing the address bar), the tab strip area (if visible above the header), or the bookmark bar itself. Once triggered, the bar slides into view and, importantly, stays visible for a configurable period even after the mouse moves away, before smoothly retracting.
